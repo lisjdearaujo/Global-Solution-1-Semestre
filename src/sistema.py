@@ -2,7 +2,7 @@
 # arquivo principal - chama todos os outros modulos em ordem
 # para rodar: python src/sistema.py
 #
-# feito por: (seus nomes aqui)
+# feito por: (Eduardo, Gabrielly, Lisandra e Nathan)
 # Global Solution 2026
 
 import sys
