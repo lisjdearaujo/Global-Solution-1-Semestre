@@ -17,9 +17,9 @@
 
 ##  Resumo do Problema
 
-Missões espaciais tripuladas operam em ambientes extremamente hostis e de difícil acesso, onde qualquer falha técnica pode ser fatal. O problema central é a ausência de um sistema automatizado capaz de monitorar continuamente os módulos críticos da missão, interpretar dados de telemetria em tempo real e antecipar riscos antes que se tornem irreversíveis**.
+Missões espaciais tripuladas operam em ambientes extremamente hostis e de difícil acesso, onde qualquer falha técnica pode ser fatal. O problema central é a ausência de um sistema automatizado capaz de monitorar continuamente os módulos críticos da missão, interpretar dados de telemetria em tempo real e antecipar riscos antes que se tornem irreversíveis.
 
-Este projeto propõe um sistema de diagnóstico e previsão em Python que lê dados de telemetria de uma missão espacial fictícia (FIAP-1), organiza as informações em estruturas de dados adequadas, aplica regras lógicas para detectar anomalias e utiliza regressão linear para prever o comportamento futuro da reserva de energia — gerando um relatório completo com alertas e recomendações de ação.
+Este projeto propõe um sistema de diagnóstico e previsão em Python que lê dados de telemetria de uma missão espacial fictícia (FIAP-1), organiza as informações em estruturas de dados adequadas, aplica regras lógicas para detectar anomalias e utiliza regressão linear para prever o comportamento futuro da reserva de energia  gerando um relatório completo com alertas e recomendações de ação.
 
 ---
 
