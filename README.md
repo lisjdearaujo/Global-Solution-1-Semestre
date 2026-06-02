@@ -4,7 +4,7 @@
 
 ---
 
-## 👥 Equipe
+##  Equipe
 
 | Nome | RM |
 |------|----|
