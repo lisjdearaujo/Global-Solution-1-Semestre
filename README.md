@@ -9,7 +9,7 @@
 | Nome | RM |
 |------|----|
 | Eduardo Alves da Silva | RM 568601 |
-| Gabrielly Drosda da Silva | RM\_\_\_\_\_ |
+| Gabrielly Drosda da Silva | RM571793 |
 | Lisandra Jacinto de Araujo | RM 574055 |
 | Nathan Caio da Silva | RM 568750 |
 
