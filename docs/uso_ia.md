@@ -8,7 +8,7 @@ A validação foi feita manualmente pela equipe, então revisamos cada valor ger
 
 ## Revisão de texto
 
-Utilizamos IA para revisar os textos do README e deste arquivo, com foco em coerência, correção gramatical e clareza. O conteúdo, os argumentos e as conclusões foram elaborados pela equipe, a IA atuou apenas como revisora.
+Utilizamos IA para revisar os textos do README, relatório e deste arquivo, com foco em coerência, correção gramatical e clareza. O conteúdo, os argumentos e as conclusões foram elaborados pela equipe, a IA atuou apenas como revisora.
 
 A validação consistiu em reler os textos revisados e verificar se o sentido original havia sido preservado e se nenhuma informação técnica havia sido alterada ou inserida indevidamente.
 
